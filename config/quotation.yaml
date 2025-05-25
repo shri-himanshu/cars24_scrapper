@@ -1,0 +1,10 @@
+buyers_requirements:
+  - name: "Buyer1"
+    city: "Jaipur"
+    make: "Tata"
+    model: "2019"
+    fuel: "Petrol"
+    type: "Sedan"
+    transmission: "Automatic"
+    seating_capacity: 4
+    scrapper: "api"

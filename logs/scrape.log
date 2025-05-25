@@ -1,0 +1,394 @@
+2025-05-11 19:07:40,738 INFO [__main__]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/website/v1/cities
+2025-05-11 19:08:01,988 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/website/v1/cities
+2025-05-11 19:08:01,988 INFO [__main__]: Delhi NCR have total 621 used cars available currently.
+2025-05-11 19:08:01,988 INFO [__main__]: Chandigarh Tricity have total 123 used cars available currently.
+2025-05-11 19:08:01,988 INFO [__main__]: Vijayawada have total 24 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Guntur have total 9 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Visakhapatnam have total 44 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Guwahati have total 42 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Raipur have total 121 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: New Delhi have total 199 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Goa have total 126 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Vapi have total 1 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Bhavnagar have total 49 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Gandhinagar have total 57 used cars available currently.
+2025-05-11 19:08:02,003 INFO [__main__]: Patan have total 1 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Nadiad have total 1 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Anand have total 58 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Bharuch have total 48 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Valsad have total 1 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Morbi have total 2 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Kurukshetra have total 1 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Hisar have total 12 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Bhiwani have total 3 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Sonipat have total 3 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Karnal have total 1 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Ambala have total 3 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Panchkula have total 4 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Jamshedpur have total 2 used cars available currently.
+2025-05-11 19:08:02,019 INFO [__main__]: Ranchi have total 141 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Mysore have total 30 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Hassan have total 1 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Gulbarga have total 1 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Belgaum have total 2 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Kottayam have total 31 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Trivandrum have total 22 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Satara have total 10 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Latur have total 1 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Aurangabad have total 206 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Amravati have total 28 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Yavatmal have total 10 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Gwalior have total 93 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Bhopal have total 233 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Jabalpur have total 67 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Bhubaneswar have total 88 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Zirakpur have total 4 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Mohali have total 7 used cars available currently.
+2025-05-11 19:08:02,035 INFO [__main__]: Patiala have total 4 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Amritsar have total 38 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Jalandhar have total 50 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Alwar have total 12 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Ajmer have total 51 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Bhilwara have total 13 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Udaipur have total 10 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Kota have total 76 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Jodhpur have total 127 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Erode have total 1 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Madurai have total 28 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Salem have total 23 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Hosur have total 2 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Kashipur have total 3 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Haridwar have total 65 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Dehradun have total 343 used cars available currently.
+2025-05-11 19:08:02,050 INFO [__main__]: Rudrapur have total 30 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Aligarh have total 39 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Moradabad have total 46 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Hapur have total 34 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Kanpur have total 241 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Gorakhpur have total 1 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Bareilly have total 48 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Meerut have total 232 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Muzaffarnagar have total 1 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Mathura have total 47 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Howrah have total 26 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: North 24 Parganas have total 33 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Bangalore have total 603 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Mumbai have total 284 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Hyderabad have total 307 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Ahmedabad have total 266 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Gurgaon have total 78 used cars available currently.
+2025-05-11 19:08:02,066 INFO [__main__]: Chennai have total 666 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Pune have total 307 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Noida have total 136 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Ghaziabad have total 103 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Faridabad have total 102 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Lucknow have total 68 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Tumkur have total 1 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Jaipur have total 63 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Kolkata have total 122 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Kochi have total 143 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Nashik have total 416 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Nagpur have total 66 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Coimbatore have total 77 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Indore have total 103 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Patna have total 45 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Surat have total 64 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Chandigarh have total 105 used cars available currently.
+2025-05-11 19:08:02,082 INFO [__main__]: Ludhiana have total 49 used cars available currently.
+2025-05-11 19:08:02,097 INFO [__main__]: Rohtak have total 12 used cars available currently.
+2025-05-11 19:08:02,097 INFO [__main__]: Rajkot have total 35 used cars available currently.
+2025-05-11 19:08:02,097 INFO [__main__]: Vadodara have total 31 used cars available currently.
+2025-05-11 19:08:02,097 INFO [__main__]: Agra have total 23 used cars available currently.
+2025-05-11 21:08:00,083 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/website/v1/cities
+2025-05-11 21:08:00,315 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/website/v1/cities
+2025-05-11 21:10:24,215 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/website/v1/cities
+2025-05-11 21:10:24,372 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/website/v1/cities
+2025-05-11 21:10:24,379 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1
+2025-05-11 21:10:24,485 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1
+2025-05-11 21:10:24,499 INFO [scripts.get_hub_details]: CARS24 Hub, Multilevel Parking, Sector-18, Noida hub is at pincode 201301 is managed by vikas.singh4
+2025-05-11 21:10:24,502 INFO [scripts.get_hub_details]: CARS24 Hub, Metro Walk, Rohini, New Delhi hub is at pincode 110085 is managed by dhiraj.gulia
+2025-05-11 21:10:24,505 INFO [scripts.get_hub_details]: CARS24 Hub, M3M Urbana, Gurugram hub is at pincode 122002 is managed by amit.gupta
+2025-05-11 21:10:24,506 INFO [scripts.get_hub_details]: CARS24 Hub, Bata Chowk, Parsvnath City Mall, Faridabad hub is at pincode 121003 is managed by vikash parashar
+2025-05-11 21:10:24,509 INFO [scripts.get_hub_details]: CARS24 Hub, Multilevel Car Parking, Vaishali, Ghaziabad hub is at pincode 201010 is managed by Mudit Tiwari
+2025-05-11 21:10:24,511 INFO [scripts.get_hub_details]: CARS24 Hub, KW Delhi 6, Ghaziabad hub is at pincode 201017 is managed by ajay.raina
+2025-05-11 21:10:24,513 INFO [scripts.get_hub_details]: CARS24 Hub, Rajouri Garden, New Delhi hub is at pincode 110027 is managed by sunny.mukul
+2025-05-11 21:10:24,516 INFO [scripts.get_hub_details]: CARS24 Hub, Sector 11, Faridabad hub is at pincode 121006 is managed by Udham Singh
+2025-05-11 21:10:24,518 INFO [scripts.get_hub_details]: CARS24 Hub, Gaur City Mall, Greater Noida hub is at pincode 201009 is managed by jitender.sharma
+2025-05-11 21:10:24,525 INFO [scripts.get_hub_details]: CARS24 Hub, Sector 7, Faridabad hub is at pincode 121006 is managed by Tanmeet Singh
+2025-05-11 21:10:24,528 INFO [scripts.get_hub_details]: CARS24 Hub, NIT, Faridabad hub is at pincode 121001 is managed by Nikhil Kumar
+2025-05-11 21:10:24,530 INFO [scripts.get_hub_details]: CARS24 Hub, ITI Chowk, Sonipat hub is at pincode 131001 is managed by Sudhir
+2025-05-11 21:10:24,532 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8623
+2025-05-11 21:10:24,646 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8623
+2025-05-11 21:10:24,655 INFO [scripts.get_hub_details]: CARS24 Hub, Paras Downtown Square, Chandigarh hub is at pincode 140603 is managed by raviraj.singh
+2025-05-11 21:10:24,655 INFO [scripts.get_hub_details]: CARS24 Hub, TDI City, Mohali hub is at pincode 160055 is managed by Sanjay
+2025-05-11 21:10:24,657 INFO [scripts.get_hub_details]: CARS24 Hub, Lohgarh, Zirakpur hub is at pincode 140603 is managed by Ajay
+2025-05-11 21:10:24,660 INFO [scripts.get_hub_details]: CARS24 Hub, Sector 11, Panchkula hub is at pincode 134109 is managed by Rajat
+2025-05-11 21:10:24,663 INFO [scripts.get_hub_details]: CARS24 Hub, Baldev nagar, Ambala hub is at pincode 140603 is managed by Amit
+2025-05-11 21:10:24,664 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3712
+2025-05-11 21:10:24,762 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3712
+2025-05-11 21:10:24,776 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4156
+2025-05-11 21:10:24,883 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4156
+2025-05-11 21:10:24,891 INFO [scripts.get_hub_details]: CARS24 Hub, NH 16, Guntur hub is at pincode 522503 is managed by P. Sivakumar
+2025-05-11 21:10:24,894 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4408
+2025-05-11 21:10:25,017 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4408
+2025-05-11 21:10:25,020 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6772
+2025-05-11 21:10:25,130 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6772
+2025-05-11 21:10:25,135 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3460
+2025-05-11 21:10:25,475 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3460
+2025-05-11 21:10:25,479 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2
+2025-05-11 21:10:25,578 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2
+2025-05-11 21:10:25,587 INFO [scripts.get_hub_details]: CARS24 Hub, Metro Walk, Rohini, New Delhi hub is at pincode 110085 is managed by dhiraj.gulia
+2025-05-11 21:10:25,590 INFO [scripts.get_hub_details]: CARS24 Hub, Rajouri Garden, New Delhi hub is at pincode 110027 is managed by sunny.mukul
+2025-05-11 21:10:25,593 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2889
+2025-05-11 21:10:25,698 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2889
+2025-05-11 21:10:25,975 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1604
+2025-05-11 21:10:26,062 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1604
+2025-05-11 21:10:26,074 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1657
+2025-05-11 21:10:26,179 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1657
+2025-05-11 21:10:26,188 INFO [scripts.get_hub_details]: CARS24 Hub, Ring Rd, Bhavnagar hub is at pincode 364001 is managed by Nikunjgiri Goswami
+2025-05-11 21:10:26,189 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1694
+2025-05-11 21:10:26,280 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1694
+2025-05-11 21:10:26,285 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1735
+2025-05-11 21:10:26,380 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1735
+2025-05-11 21:10:26,389 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1764
+2025-05-11 21:10:26,562 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1764
+2025-05-11 21:10:26,564 INFO [scripts.get_hub_details]: CARS24 Hub, Dakor Rd, Nadiad, Gujarat hub is at pincode 387001 is managed by Mr Jitendra Rana
+2025-05-11 21:10:26,567 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1771
+2025-05-11 21:10:26,740 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1771
+2025-05-11 21:10:26,755 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1822
+2025-05-11 21:10:26,865 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1822
+2025-05-11 21:10:26,870 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1866
+2025-05-11 21:10:26,962 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1866
+2025-05-11 21:10:26,975 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8602
+2025-05-11 21:10:27,079 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8602
+2025-05-11 21:10:27,269 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4
+2025-05-11 21:10:27,425 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4
+2025-05-11 21:10:27,430 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/40
+2025-05-11 21:10:27,561 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/40
+2025-05-11 21:10:27,578 INFO [scripts.get_hub_details]: CARS24 Hub, Sundar Nagar, Hisar hub is at pincode 125001 is managed by Sitanshu Soni
+2025-05-11 21:10:27,580 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/53
+2025-05-11 21:10:27,694 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/53
+2025-05-11 21:10:27,709 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/62
+2025-05-11 21:10:27,795 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/62
+2025-05-11 21:10:27,806 INFO [scripts.get_hub_details]: CARS24 Hub, ITI Chowk, Sonipat hub is at pincode 131001 is managed by Sudhir
+2025-05-11 21:10:27,809 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/64
+2025-05-11 21:10:27,881 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/64
+2025-05-11 21:10:27,897 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/73
+2025-05-11 21:10:27,980 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/73
+2025-05-11 21:10:27,986 INFO [scripts.get_hub_details]: CARS24 Hub, Baldev nagar, Ambala hub is at pincode 140603 is managed by Amit
+2025-05-11 21:10:27,990 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/79
+2025-05-11 21:10:28,097 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/79
+2025-05-11 21:10:28,100 INFO [scripts.get_hub_details]: CARS24 Hub, Sector 11, Panchkula hub is at pincode 134109 is managed by Rajat
+2025-05-11 21:10:28,104 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8440
+2025-05-11 21:10:28,165 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8440
+2025-05-11 21:10:28,182 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8518
+2025-05-11 21:10:28,263 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8518
+2025-05-11 21:10:28,272 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4747
+2025-05-11 21:10:28,363 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4747
+2025-05-11 21:10:28,366 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4847
+2025-05-11 21:10:28,478 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4847
+2025-05-11 21:10:28,479 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5105
+2025-05-11 21:10:28,578 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5105
+2025-05-11 21:10:28,580 INFO [scripts.get_hub_details]: CARS24 Hub, Kapnoor Industrial Area, Gulbarga hub is at pincode 585103 is managed by Sharanu Ratkal
+2025-05-11 21:10:28,583 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5161
+2025-05-11 21:10:28,677 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5161
+2025-05-11 21:10:28,683 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6388
+2025-05-11 21:10:28,764 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6388
+2025-05-11 21:10:28,775 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6565
+2025-05-11 21:10:28,847 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6565
+2025-05-11 21:10:28,854 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2458
+2025-05-11 21:10:28,977 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2458
+2025-05-11 21:10:28,995 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2488
+2025-05-11 21:10:29,096 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2488
+2025-05-11 21:10:29,109 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2660
+2025-05-11 21:10:29,198 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2660
+2025-05-11 21:10:29,208 INFO [scripts.get_hub_details]: CARS24 Hub, Jadhav Mandi, Aurangabad hub is at pincode 431001 is managed by Vijay Shiv Jirao Wankhede
+2025-05-11 21:10:29,211 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2799
+2025-05-11 21:10:29,281 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2799
+2025-05-11 21:10:29,294 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2816
+2025-05-11 21:10:29,364 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2816
+2025-05-11 21:10:29,375 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2948
+2025-05-11 21:10:29,463 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2948
+2025-05-11 21:10:29,465 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2987
+2025-05-11 21:10:29,564 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2987
+2025-05-11 21:10:29,579 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3119
+2025-05-11 21:10:29,663 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3119
+2025-05-11 21:10:29,666 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/7323
+2025-05-11 21:10:29,747 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/7323
+2025-05-11 21:10:29,763 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/648
+2025-05-11 21:10:29,847 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/648
+2025-05-11 21:10:29,861 INFO [scripts.get_hub_details]: CARS24 Hub, Lohgarh, Zirakpur hub is at pincode 140603 is managed by Ajay
+2025-05-11 21:10:29,864 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/650
+2025-05-11 21:10:29,947 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/650
+2025-05-11 21:10:29,959 INFO [scripts.get_hub_details]: CARS24 Hub, TDI City, Mohali hub is at pincode 160055 is managed by Sanjay
+2025-05-11 21:10:29,963 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/664
+2025-05-11 21:10:30,028 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/664
+2025-05-11 21:10:30,039 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/684
+2025-05-11 21:10:30,113 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/684
+2025-05-11 21:10:30,126 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/692
+2025-05-11 21:10:30,221 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/692
+2025-05-11 21:10:30,226 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2115
+2025-05-11 21:10:30,297 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2115
+2025-05-11 21:10:30,308 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2137
+2025-05-11 21:10:30,379 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2137
+2025-05-11 21:10:30,379 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2168
+2025-05-11 21:10:30,480 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2168
+2025-05-11 21:10:30,497 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2185
+2025-05-11 21:10:30,595 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2185
+2025-05-11 21:10:30,613 INFO [scripts.get_hub_details]: CARS24 Hub, Sukher, Udaipur hub is at pincode 313001 is managed by Dinesh Meghwal
+2025-05-11 21:10:30,615 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2234
+2025-05-11 21:10:30,696 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2234
+2025-05-11 21:10:30,697 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2310
+2025-05-11 21:10:30,779 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2310
+2025-05-11 21:10:30,781 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5762
+2025-05-11 21:10:30,864 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5762
+2025-05-11 21:10:30,876 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5951
+2025-05-11 21:10:30,947 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5951
+2025-05-11 21:10:30,955 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6059
+2025-05-11 21:10:31,044 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6059
+2025-05-11 21:10:31,045 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6062
+2025-05-11 21:10:31,148 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6062
+2025-05-11 21:10:31,159 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1480
+2025-05-11 21:10:31,365 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1480
+2025-05-11 21:10:31,375 INFO [scripts.get_hub_details]: CARS24 Hub, Anaj Mandi, Kashipur hub is at pincode 244713 is managed by Mahesh
+2025-05-11 21:10:31,380 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1509
+2025-05-11 21:10:31,463 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1509
+2025-05-11 21:10:31,472 INFO [scripts.get_hub_details]: CARS24 Hub, Haridwar Main Rd, Haridwar hub is at pincode 249407 is managed by Faheem Khan
+2025-05-11 21:10:31,476 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1512
+2025-05-11 21:10:31,563 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1512
+2025-05-11 21:10:31,571 INFO [scripts.get_hub_details]: CARS24 Hub, Shubhash Nagar Chowk, Dehradun hub is at pincode 248002 is managed by Faheem Khan
+2025-05-11 21:10:31,575 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1566
+2025-05-11 21:10:31,679 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1566
+2025-05-11 21:10:31,681 INFO [scripts.get_hub_details]: CARS24 Hub, Nainital Rd, Rudrapur hub is at pincode 263153 is managed by DEVENDRA BHATIA
+2025-05-11 21:10:31,683 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/135
+2025-05-11 21:10:31,812 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/135
+2025-05-11 21:10:31,827 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/144
+2025-05-11 21:10:31,929 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/144
+2025-05-11 21:10:31,930 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/158
+2025-05-11 21:10:32,014 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/158
+2025-05-11 21:10:32,015 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/173
+2025-05-11 21:10:32,095 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/173
+2025-05-11 21:10:32,098 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/280
+2025-05-11 21:10:32,178 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/280
+2025-05-11 21:10:32,195 INFO [scripts.get_hub_details]: CARS24 Hub, Paidleganj, Gorakhpur hub is at pincode 273009 is managed by Shubham
+2025-05-11 21:10:32,198 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/359
+2025-05-11 21:10:32,279 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/359
+2025-05-11 21:10:32,292 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/404
+2025-05-11 21:10:32,396 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/404
+2025-05-11 21:10:32,399 INFO [scripts.get_hub_details]: CARS24 Hub, Industrial Area, Meerut hub is at pincode 250103 is managed by Anjali Goel
+2025-05-11 21:10:32,402 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/425
+2025-05-11 21:10:32,480 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/425
+2025-05-11 21:10:32,484 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/553
+2025-05-11 21:10:32,561 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/553
+2025-05-11 21:10:32,569 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/778
+2025-05-11 21:10:32,664 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/778
+2025-05-11 21:10:32,668 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1057
+2025-05-11 21:10:32,746 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1057
+2025-05-11 21:10:32,751 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4709
+2025-05-11 21:10:32,832 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4709
+2025-05-11 21:10:32,848 INFO [scripts.get_hub_details]: CARS24 Hub, Bellahalli, Jakkur Post, Bangalore hub is at pincode 560064 is managed by wasim.r
+2025-05-11 21:10:32,851 INFO [scripts.get_hub_details]: CARS24 Hub, Bhoruka Tech Park, Whitefield, Bangalore hub is at pincode 560048 is managed by r.srichandana
+2025-05-11 21:10:32,855 INFO [scripts.get_hub_details]: CARS24 Hub, GT World Mall, Bangalore hub is at pincode 560023 is managed by raushan kumar
+2025-05-11 21:10:32,857 INFO [scripts.get_hub_details]: CARS24 Hub, Right Parking MLCP, Gandhi Nagar, Bangalore hub is at pincode 560009 is managed by nidhin.narayan
+2025-05-11 21:10:32,859 INFO [scripts.get_hub_details]: CARS24 Hub, Nexus Whitefield Mall, Bangalore hub is at pincode 560066 is managed by dhineshmurugan mani
+2025-05-11 21:10:32,861 INFO [scripts.get_hub_details]: CARS24 Hub, Vaishnavi Sapphire Centre, Yeswanthpur, Bangalore hub is at pincode 560022 is managed by prashanth.v
+2025-05-11 21:10:32,866 INFO [scripts.get_hub_details]: CARS24 Hub, Nexus Mall Koramangala, Bangalore hub is at pincode 560095 is managed by madhusudhana.g
+2025-05-11 21:10:32,870 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2378
+2025-05-11 21:10:32,962 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2378
+2025-05-11 21:10:32,975 INFO [scripts.get_hub_details]: CARS24 Hub, Mulund West, Mumbai hub is at pincode 400080 is managed by Ajay Amodkar
+2025-05-11 21:10:32,980 INFO [scripts.get_hub_details]: CARS24 Hub, Seawood, Navi Mumbai hub is at pincode 400706 is managed by harvindar.lamba
+2025-05-11 21:10:32,982 INFO [scripts.get_hub_details]: CARS24 Hub, Regency Anantam, Dombivli East, Mumbai hub is at pincode 421203 is managed by prathamesh.shiriskar
+2025-05-11 21:10:32,984 INFO [scripts.get_hub_details]: CARS24 Hub, Kandivali, Mumbai hub is at pincode 400101 is managed by rajeev mishra
+2025-05-11 21:10:32,986 INFO [scripts.get_hub_details]: CARS24 Hub, Goregaon, Mumbai hub is at pincode 400063 is managed by masood baig
+2025-05-11 21:10:32,988 INFO [scripts.get_hub_details]: CARS24 Hub, Korum Mall, Thane West, Mumbai hub is at pincode 400606 is managed by prashant.hinduja
+2025-05-11 21:10:32,989 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3686
+2025-05-11 21:10:33,079 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/3686
+2025-05-11 21:10:33,087 INFO [scripts.get_hub_details]: CARS24 Hub, Kompally, Hyderabad hub is at pincode 500014 is managed by vamsi.lingala
+2025-05-11 21:10:33,091 INFO [scripts.get_hub_details]: CARS24 Hub, Bachupally, Hyderabad hub is at pincode 500090 is managed by mohammed.kadheer
+2025-05-11 21:10:33,092 INFO [scripts.get_hub_details]: CARS24 Hub, Mantra Mall, Attapur, Hyderabad hub is at pincode 500030 is managed by mahesh kolipaka
+2025-05-11 21:10:33,095 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1692
+2025-05-11 21:10:33,167 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1692
+2025-05-11 21:10:33,178 INFO [scripts.get_hub_details]: CARS24 Hub, Naroda, Ahmedabad hub is at pincode 382330 is managed by Salmankhan Pathan
+2025-05-11 21:10:33,183 INFO [scripts.get_hub_details]: CARS24 Hub, Karnavati Club, S.G. Highway, Ahmedabad hub is at pincode 380058 is managed by malek.juned
+2025-05-11 21:10:33,185 INFO [scripts.get_hub_details]: CARS24 Hub, Himalaya Mall, Ahmedabad hub is at pincode 380052 is managed by meetk.trivedi
+2025-05-11 21:10:33,187 INFO [scripts.get_hub_details]: CARS24 Hub, Vastral, Ahmedabad hub is at pincode 382415 is managed by Pratapsinh Lakham
+2025-05-11 21:10:33,189 INFO [scripts.get_hub_details]: CARS24 Hub, Chandkheda, Ahmedabad hub is at pincode 382424 is managed by Pravinbhai Solanki
+2025-05-11 21:10:33,191 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5
+2025-05-11 21:10:33,278 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5
+2025-05-11 21:10:33,282 INFO [scripts.get_hub_details]: CARS24 Hub, M3M Urbana, Gurugram hub is at pincode 122002 is managed by amit.gupta
+2025-05-11 21:10:33,285 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5732
+2025-05-11 21:10:33,378 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/5732
+2025-05-11 21:10:33,390 INFO [scripts.get_hub_details]: CARS24 Hub, JP Parking Yard,Thiruverkadu,Chennai hub is at pincode 600077 is managed by s.sugumaran
+2025-05-11 21:10:33,392 INFO [scripts.get_hub_details]: CARS24 Hub, Nexus Vijaya Mall, Vadapalani, Chennai hub is at pincode 600026 is managed by santhosh.s
+2025-05-11 21:10:33,395 INFO [scripts.get_hub_details]: CARS24 Hub, OMR Navalur, Chennai hub is at pincode 600129 is managed by Bheem Raj 
+2025-05-11 21:10:33,398 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2423
+2025-05-11 21:10:33,495 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2423
+2025-05-11 21:10:33,509 INFO [scripts.get_hub_details]: CARS24 Hub, Tathawade, Pune hub is at pincode 411033 is managed by Sangram Patil
+2025-05-11 21:10:33,513 INFO [scripts.get_hub_details]: CARS24 Hub, Amanora Mall, Pune hub is at pincode 411028 is managed by ankit diwedi
+2025-05-11 21:10:33,515 INFO [scripts.get_hub_details]: CARS24 Hub, Pashan, Pune hub is at pincode 411021 is managed by Shashi Kiran
+2025-05-11 21:10:33,518 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/134
+2025-05-11 21:10:33,596 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/134
+2025-05-11 21:10:33,607 INFO [scripts.get_hub_details]: CARS24 Hub, Multilevel Parking, Sector-18, Noida hub is at pincode 201301 is managed by vikas.singh4
+2025-05-11 21:10:33,614 INFO [scripts.get_hub_details]: CARS24 Hub, Gaur City Mall, Greater Noida hub is at pincode 201009 is managed by jitender.sharma
+2025-05-11 21:10:33,616 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/132
+2025-05-11 21:10:33,696 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/132
+2025-05-11 21:10:33,701 INFO [scripts.get_hub_details]: CARS24 Hub, Multilevel Car Parking, Vaishali, Ghaziabad hub is at pincode 201010 is managed by Mudit Tiwari
+2025-05-11 21:10:33,704 INFO [scripts.get_hub_details]: CARS24 Hub, KW Delhi 6, Ghaziabad hub is at pincode 201017 is managed by ajay.raina
+2025-05-11 21:10:33,707 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6
+2025-05-11 21:10:33,795 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6
+2025-05-11 21:10:33,797 INFO [scripts.get_hub_details]: CARS24 Hub, Bata Chowk, Parsvnath City Mall, Faridabad hub is at pincode 121003 is managed by vikash parashar
+2025-05-11 21:10:33,800 INFO [scripts.get_hub_details]: CARS24 Hub, Sector 11, Faridabad hub is at pincode 121006 is managed by Udham Singh
+2025-05-11 21:10:33,803 INFO [scripts.get_hub_details]: CARS24 Hub, Sector 7, Faridabad hub is at pincode 121006 is managed by Tanmeet Singh
+2025-05-11 21:10:33,804 INFO [scripts.get_hub_details]: CARS24 Hub, NIT, Faridabad hub is at pincode 121001 is managed by Nikhil Kumar
+2025-05-11 21:10:33,807 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/290
+2025-05-11 21:10:33,911 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/290
+2025-05-11 21:10:33,915 INFO [scripts.get_hub_details]: CARS24 Hub, Gomti Nagar, Lucknow hub is at pincode 226010 is managed by Sharda Singh
+2025-05-11 21:10:33,917 INFO [scripts.get_hub_details]: CARS24 Hub, Alambagh, Lucknow hub is at pincode 226005 is managed by Dhiraj Gupta
+2025-05-11 21:10:33,920 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4812
+2025-05-11 21:10:34,052 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/4812
+2025-05-11 21:10:34,054 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2130
+2025-05-11 21:10:34,130 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2130
+2025-05-11 21:10:34,134 INFO [scripts.get_hub_details]: CARS24 Hub, Mansarovar, Jaipur hub is at pincode 302020 is managed by Vandana Dua
+2025-05-11 21:10:34,137 INFO [scripts.get_hub_details]: CARS24 Hub, Tonk Road, Jaipur hub is at pincode 302033 is managed by Sameer
+2025-05-11 21:10:34,140 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/777
+2025-05-11 21:10:34,228 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/777
+2025-05-11 21:10:34,242 INFO [scripts.get_hub_details]: CARS24 Hub, Astra Tower, Kolkata hub is at pincode 700135 is managed by sandeep hait
+2025-05-11 21:10:34,247 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6356
+2025-05-11 21:10:34,344 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6356
+2025-05-11 21:10:34,349 INFO [scripts.get_hub_details]: CARS24 Hub, Info park road, Kakkanad, Kochi hub is at pincode 682030 is managed by Pranav Chandran
+2025-05-11 21:10:34,352 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2598
+2025-05-11 21:10:34,446 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2598
+2025-05-11 21:10:34,448 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2713
+2025-05-11 21:10:34,532 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2713
+2025-05-11 21:10:34,540 INFO [scripts.get_hub_details]: CARS24 Hub, Kharbi, Nagpur hub is at pincode 440034 is managed by muzammil.haidary
+2025-05-11 21:10:34,547 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6105
+2025-05-11 21:10:34,630 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/6105
+2025-05-11 21:10:34,643 INFO [scripts.get_hub_details]: CARS24 Hub, Vivekananda Nagar, Coimbatore hub is at pincode 641005 is managed by Krishna Kumar
+2025-05-11 21:10:34,647 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2920
+2025-05-11 21:10:34,745 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/2920
+2025-05-11 21:10:34,760 INFO [scripts.get_hub_details]: CARS24 Hub, Dewas Naka , AB road, Indore hub is at pincode 452010 is managed by Abhishek Singh
+2025-05-11 21:10:34,763 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8184
+2025-05-11 21:10:34,847 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/8184
+2025-05-11 21:10:34,857 INFO [scripts.get_hub_details]: CARS24 Hub, Atal Path, Patna hub is at pincode 800011 is managed by suman.ghosh
+2025-05-11 21:10:34,860 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1605
+2025-05-11 21:10:34,961 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1605
+2025-05-11 21:10:34,965 INFO [scripts.get_hub_details]: CARS24 Hub, Sachin Magdalla Road, Surat hub is at pincode 395023 is managed by Sumitkumar Thakur
+2025-05-11 21:10:34,968 INFO [scripts.get_hub_details]: CARS24 Hub, Nishal Arcade, Surat hub is at pincode 394510 is managed by sumitkumar.thakur
+2025-05-11 21:10:34,971 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/769
+2025-05-11 21:10:35,062 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/769
+2025-05-11 21:10:35,063 INFO [scripts.get_hub_details]: CARS24 Hub, Paras Downtown Square, Chandigarh hub is at pincode 140603 is managed by raviraj.singh
+2025-05-11 21:10:35,066 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/666
+2025-05-11 21:10:35,145 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/666
+2025-05-11 21:10:35,158 INFO [scripts.get_hub_details]: CARS24 Hub, Dugri Phase, Ludhiana hub is at pincode 141002 is managed by Vivek Garg
+2025-05-11 21:10:35,162 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/33
+2025-05-11 21:10:35,265 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/33
+2025-05-11 21:10:35,271 INFO [scripts.get_hub_details]: CARS24 Hub, Jind Bypass Chowk, Rohtak hub is at pincode 124001 is managed by Ankit
+2025-05-11 21:10:35,274 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1606
+2025-05-11 21:10:35,360 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1606
+2025-05-11 21:10:35,370 INFO [scripts.get_hub_details]: CARS24 Hub, Akshar Party, Rajkot hub is at pincode 360005 is managed by Kathrani Sureshbhai
+2025-05-11 21:10:35,373 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1674
+2025-05-11 21:10:35,461 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/1674
+2025-05-11 21:10:35,471 INFO [scripts.get_hub_details]: CARS24 Hub, Agora City Centre, Vadodara hub is at pincode 390008 is managed by brijesh.singh
+2025-05-11 21:10:35,474 INFO [scripts.get_hub_details]: Running fetch for URL : https://car-catalog-gateway-in.c24.tech/hub/v1/136
+2025-05-11 21:10:35,563 INFO [Buyer1]: Fetched data from URL : https://car-catalog-gateway-in.c24.tech/hub/v1/136
+2025-05-11 21:10:35,576 INFO [scripts.get_hub_details]: CARS24 Hub, Maharishi Puram, Agra hub is at pincode 282003 is managed by Prateek
